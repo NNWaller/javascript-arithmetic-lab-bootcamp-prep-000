@@ -21,7 +21,3 @@ function inc (){
 function dec (){
   return n--
 }
-
-function makeInt (){
-  
-}
